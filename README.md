@@ -78,23 +78,6 @@ git clone https://github.com/WooyoohL/AI-oppose-AI-skill.git
 
 并将```SKILL.md```复制到全局/项目 ```.codex/skills/```目录下
 
-推荐调用方式：
-
-```text
-使用 $ai-opposes-ai 审查下面这段 AI 输出。
-
-用户原始请求：
-[粘贴用户请求]
-
-待审查的 AI 回答 / 计划 / prompt / workflow：
-[粘贴待审查内容]
-
-必要上下文：
-[粘贴上下文]
-
-输出偏好：
-[轻量 / 完整 / 由你按风险选择]
-```
 
 ## 输出格式
 
